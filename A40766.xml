@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Faithful account of the taking the bridge, and beating down the Irish town of Athlone, which stands on the other side of the Shannon with a perfect diary of every days several actions before the said Irish town, &amp;c. : as also, the welcome news from Kinsaile, giving an impartial account of the safe and happy arrival of the Smirna and Turkey fleets.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40766</idno>
+            <idno type="STC">Wing F263A</idno>
+            <idno type="STC">ESTC R7446</idno>
+            <idno type="EEBO-CITATION">12144699</idno>
+            <idno type="OCLC">ocm 12144699</idno>
+            <idno type="VID">54912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 67:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Faithful account of the taking the bridge, and beating down the Irish town of Athlone, which stands on the other side of the Shannon with a perfect diary of every days several actions before the said Irish town, &amp;c. : as also, the welcome news from Kinsaile, giving an impartial account of the safe and happy arrival of the Smirna and Turkey fleets.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Hayhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed July the 3d, 1691. J. Fraiser"</note>
+                  <note>Advertisement: p. [2].</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:54912:1" rendition="simple:additions"/>
+            <head>A Faithful ACCOUNT OF THE <hi>Taking the Bridge.</hi> And <hi>Beating Down,</hi> the Iriſh Town of Athlone, Which ſtands on The other ſide of the SHANNON. WITH A Perfect DIARY of every Days ſeveral Actions, before the ſaid <hi>Iriſh Town,</hi> &amp;c. AS ALSO, The Welcome News from <hi>Kinſaile:</hi> Giving an Impartial Account of the Safe, and Happy Arrival OF THE <hi>Smirna, and Turkey Fleets.</hi> 
+               <add>4. July. 1691</add>
+            </head>
+            <argument>
+               <p>LICENS'D, <hi>July</hi> the 3<hi>d.</hi>1691. J. FRAISER.</p>
+            </argument>
+            <div type="part">
+               <opener>
+                  <dateline>Camp at <hi>ATHLONE,</hi> 
+                     <date>25th. <hi>paſt, (Two in the Afternoon.)</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>SINCE my laſt, it's ſaid, The Drum that came to the General, was an Anſwer to a Meſſage, ſent by the General, about Exchange of Priſo<g ref="char:EOLhyphen"/>ners on the <hi>24th.</hi> This Morning about the Hour of Six, the Drum returned from the Enemies Quarters; all our Hands (that can any ways poſſibly be ſpared from other Du<g ref="char:EOLhyphen"/>ty,) are mending the Tin Boats; and our Men are working, with all diligence, in raiſing of three New Batteries, one below the Bridge, another above it; and the third without the Town-Wall, by the River-ſide, oppoſite to a large Baſtion, the Enemy have erected, on the other ſide the River <hi>Shannon,</hi> which is there not ſo broad as the River of <hi>Thames,</hi> between <hi>Weſtminſter Horſe Ferry,</hi> and <hi>Lambeth</hi> at Low-Water.</p>
+               <p>About Seaven of the Clock this Evening, one of the Granadeers belonging to the Lord <hi>Lisburn</hi>'s Regiment going under ſome Arches of the Bridge of <hi>Athlone,</hi> to look for Plunder amongſt the Enemies Dead, found a pair of Colours, belonging to a Company of the Earl of <hi>Clanrickard</hi>'s Regiment; which were
+<pb facs="tcp:54912:2" rendition="simple:additions"/>on the Breach when we Stormed the Town, and brought them off flying to the General; and though, I believe, 100 Shot were made at him, yet none hurt him: The Lord Ba<g ref="char:EOLhyphen"/>ron <hi>Ginkle,</hi> our General, very generouſly Rewarded him with Five Guineas. The <hi>25th.</hi> yeſterday the Enemy were very hard at work, in raiſing two new Batteries above the Caſtle; the one cloſe by the River ſide, the other on a riſing ground, a diſtance from it; and about Eight of the Clock laſt Night they were finiſhed, one of them are of four, the other of three, ſix Pounders, with the latter of which, they have played briskly on the old Walls of the Town, where our Men are, (but without killing, or wound<g ref="char:EOLhyphen"/>ing any;) with the other, they ſhot into ſome of our Regiments, who lay Encamp'd on the Bank of the River, which obliged our Men to Decamp, and remove farther off.</p>
+               <p>About this Morning, our Battery (below the Bridge) was finiſhed, and 26 four Pound<g ref="char:EOLhyphen"/>ers planted thereon, which has ever ſince Six this Morning, played inceſſantly on the Enemies Breaſt-work, on the other ſide, by which, moſt of the ſaid Breaſt-work is beat down and levelled with the ground; as alſo, moſt of the Houſes that ſtood on the other ſide the Town; by which means, the Ene<g ref="char:EOLhyphen"/>mies Works are ſo much expoſed to our view, that they are forced to quit the Town, a great part or them retiring to <hi>S<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>
+                  </hi>'s Camp, others retiring behind the Caſtle, and in the Work over the Bridge, which in a few hours, from our upper Battery, will be ſoon likewiſe ruined, and it's not doubt<g ref="char:EOLhyphen"/>ed, but that very ſoon we may acquaint you, that we are Maſters of the River, and Ruined Town of <hi>Athlone:</hi> Our Guns are now firing very furiouſly from all our Bat<g ref="char:EOLhyphen"/>teries, with very good ſucceſs.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>26th. <hi>At Noon.</hi>
+                     </date>
+                  </dateline>
+                  <lb/> Sir,</opener>
+               <p>Yeſterday our Guns and Mortars played inceſſantly againſt the Enemies Works, <hi>&amp;c.</hi> The Tin-Boats are all mended, and all things in a readineſs to attempt our Paſſage over the River <hi>Shan<g ref="char:EOLhyphen"/>non,</hi> &amp;c. which will be at three ſeveral pla<g ref="char:EOLhyphen"/>ces, both above, and below the <hi>Bridge of Athlone;</hi> and I am certainly informed, that to Morrow will be the Day. A Deſerter that came into our Camp this Morning, ſays The Enemies Army hourly expects our going over the <hi>Shannon.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>27th. <hi>At Seven of the Clock in the Eve<g ref="char:EOLhyphen"/>ning.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>Juſt now we have poſſeſſed our ſelves of the whole <hi>Bridge of Athlone,</hi> to the very Works of the <hi>Iriſſi Town;</hi> two Arches of the <hi>Bridge</hi> were broke down by the Enemies Troops, one of which we have mended, and the other is to be mended this Night; and to morrow Morning, by Break of Day, there is Eight freſh Regiments appointed to Storm the Town.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <hi>Kinſaile</hi> 
+                     <date>the 26<hi>th.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>This Day is ſeen off of our Hills, a great Fleet, conſiſt<g ref="char:EOLhyphen"/>ing, as near as we can tell them, of be<g ref="char:EOLhyphen"/>tween Sixty and Seventy Sail, which we are aſſured, is the <hi>Smirna,</hi> and <hi>Turkey</hi> Fleet.</p>
+            </div>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>☞ An Exact Deſcription of the Roads of <hi>Connaught,</hi> and part of <hi>Mu<gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>,</hi> at preſent poſſeſs'd by the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Rebels;) giving the True Distances of the Several Cities, Towns, Paſſes and Places of Strength, each from the o<g ref="char:EOLhyphen"/>ther; with their due Diſtances from Their Ma<g ref="char:EOLhyphen"/>jeſties Frontier Towns. Alſo, an Exact Ac<g ref="char:EOLhyphen"/>count of the Situation of the Enemies Chief For<g ref="char:EOLhyphen"/>tified Places, <hi>viz. LYMERICK, Ath<g ref="char:EOLhyphen"/>lone, GALWAY,</hi> and <hi>SLEGOE,</hi> their preſent Fortifications; with the Additio<g ref="char:EOLhyphen"/>nal Works lately made by the <hi>French</hi> and <hi>Iriſh.</hi> Very neceſſary for all Gentlemen and others, now our Army are Marched into the Enemies Quar<g ref="char:EOLhyphen"/>ters. Price <hi>One Penny.</hi>
+            </p>
+            <p>☞ An Exact Deſcription of the Roads of <hi>Flanders,</hi> (according to the laſt and beſt Sur<g ref="char:EOLhyphen"/>vey) giving the True Diſtances of all the Cities, Towns, Caſtles, and Places of Strength (each from the other) in the Ten Provinces. And the moſt poſſable Roads for the Confederate Army (Commanded by the King of <hi>England</hi>) to March to any Place. And the paſſable Ways, by which the Confederate Army may enter into the very Heart of <hi>France.</hi> With diſtinguiſhing Characters; Shewing What Part of <hi>Flanders</hi> is poſſeſt by the <hi>Spaniards;</hi> What by the <hi>Dutch;</hi> What by the Biſhop of <hi>Liege;</hi> What by the <hi>French;</hi> and What by the Duke of <hi>Juliers.</hi> Very neceſſary for Accomodating all Gentlemen and others (during the War in <hi>Flanders</hi>) in Reaning the <hi>Engliſh</hi> and Foreign <hi>Gazatts,</hi> and other Intelligences, of the Movements and Acti<g ref="char:EOLhyphen"/>ons of the Confederate and <hi>French</hi> Armies. Price, <hi>Two Pence.</hi>
+            </p>
+            <p>Both Printed for, and are to be Sold by <hi>Robert Hayhurſt,</hi> at the <hi>Axe</hi> in <hi>Little-Britain.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Hayhurſt,</hi> at the <hi>Axe</hi> in <hi>Little-Britain,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
